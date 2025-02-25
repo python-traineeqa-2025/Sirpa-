@@ -11,6 +11,6 @@ for num in l:
         elif(num<lowest):
             lowest=num
 
-print("Greatest number:",greatest,"and lowest number:",lowest)
+print(f"Greatest number:{greatest},and lowest number:{lowest}")
 
 
