@@ -12,4 +12,4 @@ def squr(num):
     return (num*num)
 
 print(squr(4))
-
+print()
